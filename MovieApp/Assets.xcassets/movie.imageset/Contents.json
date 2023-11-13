@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "MOVİE.png",
+      "filename" : "MOVİE 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "MOVİE 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "MOVİE 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
