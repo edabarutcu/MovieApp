@@ -9,7 +9,7 @@ import Foundation
 
 struct MovieService {
     
-    static let apiKey = "d955c43d"
+    static let apiKey = "39864eda"
     static let baseURL = "https://www.omdbapi.com/"
     
     static func searchMovies(searchTerm: String, page: Int) async throws -> MovieResponseModel {
