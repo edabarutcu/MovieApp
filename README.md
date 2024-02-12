@@ -1,4 +1,4 @@
-# Teknasyon iOS-Challange
+# iOS-Challange
 
 # Movie App 🎬
 
